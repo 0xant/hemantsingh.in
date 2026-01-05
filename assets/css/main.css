@@ -38,6 +38,11 @@ body {
   font-size: 1.05rem;
 }
 
+.back-link {
+  font-size: 0.9rem;
+  margin-bottom: 1.5rem;
+}
+
 section {
   margin-top: 3rem;
 }
